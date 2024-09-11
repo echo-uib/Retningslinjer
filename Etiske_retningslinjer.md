@@ -164,7 +164,7 @@ Denne fortroligheten er avgjørende for å opprettholde tilliten til varslingssy
 
 ## Sanksjoner
 
-Echo anvender en rekke sanksjoner basert på alvorlighetsgraden av bruddet på foreningens retningslinjer. Disse sanksjonene spenner fra tilsnakk og skriftlige advarsler til permanent utestengelse og rapportering til relevante myndigheter.
+echo anvender en rekke sanksjoner basert på alvorlighetsgraden av bruddet på foreningens retningslinjer. Disse sanksjonene spenner fra tilsnakk og skriftlige advarsler til permanent utestengelse og rapportering til relevante myndigheter.
 
 ### Gul Sanksjon
 
