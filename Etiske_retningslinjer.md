@@ -33,6 +33,7 @@
   - [Mild Uaktsomhet](#mild-uaktsomhet)
   - [Uaktsomhet](#uaktsomhet)
   - [Grov Uaktsomhet](#grov-uaktsomhet)
+- [Konsekvenser ved manglende oppmøte](#konsekvenser-ved-manglende-oppmøte)
 
 ## Definisjoner
 
@@ -202,3 +203,8 @@ echo opererer med et system for å håndtere uaktsomhet og brudd på retningslin
 
 - **1 varsel:** Resulterer direkte i Oransje Sanksjon.
 - **Mer enn 1 tilfelle:** Går til Rød Sanksjon; permanent utestengelse og mulig rapportering til eksterne myndigheter.
+
+
+## Konsekvenser ved manglende oppmøte
+
+Hvis vedkommende ikke møter opp til avtalt møtetid, så vil det komme et purringsbrev på nytt møte. Hvis dette vedvarer, så vil saken gå videre uten vedkommende. Dette vil si at vedkommende ikke vil få muligheten til å forklare seg, og saken vil bli avgjort uten vedkommende tilstede. Dette kan føre til at vedkommende får en strengere straff enn hva som ville vært tilfelle hvis vedkommende hadde møtt opp.
