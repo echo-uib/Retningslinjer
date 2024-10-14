@@ -25,6 +25,7 @@
   - [Prinsipper for saksbehandlinger](#prinsipper-for-saksbehandlinger)
   - [Anonyme versus Ikke-anonyme Varslinger](#anonyme-versus-ikke-anonyme-varslinger)
   - [Konfidensialitet ved Varslinger](#konfidensialitet-ved-varslinger)
+  - [Saksbehandling og henleggesle](#saksbehandling-og-henleggesle)
 - [Sanksjoner](#sanksjoner)
   - [Gul Sanksjon](#gul-sanksjon)
   - [Oransje Sanksjon](#oransje-sanksjon)
