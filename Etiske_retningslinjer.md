@@ -38,20 +38,30 @@
 ## Definisjoner
 
 - **Avvik** er forhold som kan medføre skade på mennesker, miljø eller materiell, samt misnøye knyttet til studiemiljøet, respekt, likebehandling, ytringsklima, møteplasser og studentvelferd.
+- **Utestenging** Bevisst ekskludering av en person eller gruppe fra sosiale, faglige eller organisatoriske aktiviteter, som hindrer dem i å delta fullt ut i fellesskapet.
 - **Konflikt** kan være stor uenighet, som for eksempel interessekonflikt eller sakskonflikt, mellom to personer, en person og en gruppe, eller to grupper.
 - **Mobbing** kan være negative hendelser, ytringer og unnlatelser som systematisk og vedvarende rettes mot en og samme person.
-- **Trakassering** er handlinger, unnlatelser eller ytringer som har til hensikt eller virkning å være krenkende, skremmende, fiendtlige, nedverdigende og/eller ydmykende.
+- **Trakassering**: Fysiske eller psykiske handlinger, unnlatelser eller ytringer som har til hensikt eller faktisk virker krenkende, skremmende, fiendtlige, nedverdigende eller ydmykende. Trakassering kan være både fysisk og psykisk, og inkluderer for eksempel:
+
+    - **Verbal trakassering**: Nedsettende kommentarer, fornærmelser, trusler eller spredning av rykter.
+    - **Fysisk trakassering**: Uønsket berøring, dytting, blokkering av bevegelsesfrihet eller annen fysisk innblanding.
+    - **Digital trakassering**: Krenkende eller truende meldinger, bilder eller innlegg på sosiale medier.
+    - **Sosial trakassering**: Bevisst ekskludering, isolering eller manipulasjon av sosiale relasjoner.
+
 - **Seksuell trakassering** er enhver form for uønsket seksuell oppmerksomhet.
-- **Rasisme** blir sett på som holdninger og ideer om at mennesker kan kategoriseres etter rase eller etnisitet.
-- **Diskriminering** er å behandle noen ulikt basert på kjønn, religion, nasjonalitet, alder eller funksjonsevne.
+- **Rasisme** Holdninger, ideer eller handlinger som baserer seg på forestillingen om at mennesker kan deles inn i raser, og som fører til forskjellsbehandling eller diskriminering basert på etnisitet eller hudfarge.
+- **Diskriminering** er å behandle noen Urettferdig eller forskjellsbehandlende handlinger eller praksis mot enkeltpersoner eller grupper basert på kjønn, etnisitet, religion, nasjonalitet, alder, funksjonsevne, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller andre beskyttede egenskaper.
 - **Korrupsjon** omfatter det å bestikke eller ta imot bestikkelser i form av penger, gaver eller tjenester.
 - **Tillitspersoner** er personer som innehar verv som er tildelt ekstra tillit, både formelt og uformelt.
 - **Kritikkverdige forhold** vil benyttes som et samlebegrep på mobbing, (seksuell) trakassering, økonomisk kriminalitet og annen uakseptabel oppførsel.
 - **Uaktsomhet** er en form for skyld som innebærer at en har opptrådt i strid med det en alminnelig fornuftig person ville gjort i en tilsvarende situasjon.
 - **Grov uaktsomhet** krever gjerne et markert avvik mellom den utviste atferd og en atferd som objektivt kan betegnes som forsvarlig.
-- **En forsettlig handling** er en handling som er gjort med vilje.
+- **En forsettlig handling** er en handling som er gjort med vilje og bevissthet om konsekvensene.
+- **Rettsferdighet** Prinsippet om rettferdig behandling og like muligheter for alle medlemmer.
+- **Profesjonalitet** Forventet profesjonell atferd, inkludert ansvarlighet, respektfull kommunikasjon og opptreden.
 - **Alkoholige arrangementer** inkluderer alle samlinger hvor alkohol er til stede og en del av arrangementet. Dette kan omfatte fester, vinkvelder, pub-til-pub runder, Bedriftspresentasjoner og lignende sosiale sammenkomster hvor det oftest er servert alkohol.
 - **Edrue arrangementer** er de hvor alkohol ikke er en del av sammenkomsten. Disse kan være kulturelle arrangementer, foredrag, idrettsaktiviteter, spillkvelder, og workshopper. Hensikten her er å samle studenter for sosialt samvær, læring, eller aktiv deltakelse i et miljø uten alkohol.
+
 
 ## Formål
 
@@ -109,7 +119,7 @@ Medlemmer og vervsinnehavere i echo forventes å behandle konfidensiell informas
 
 ### God representant for echo
 
-Ledere i echo skal opptre som gode forbilder og representanter for foreningen.
+Envher tilitsperson og student av echo skal opptre seg som gode forbilder og representanter for foreningen. 
 
 ## Fellesmidler og økonomi
 
@@ -162,6 +172,9 @@ Når et varsel mottas, er konfidensialitet av største betydning. Det er kun ech
 Denne fortroligheten er avgjørende for å opprettholde tilliten til varslingssystemet og sikre at medlemmer føler seg trygge på at deres bekymringer blir behandlet seriøst og med den største grad av privatliv. Ved å begrense kunnskapen om varselet til echo-styret og den berørte personen, unngår organisasjonen unødvendig spredning av informasjon som kan føre til ryktespredning, stigma eller forutinntatt behandling av saken.
 
 **Integriteten til Varslingsprosessen:** Det er essensielt at konfidensialitet opprettholdes av alle echo-styrets medlemmer som er involvert i mottak og behandling av varsler. Ethvert brudd på konfidensialitet anses som et alvorlig etisk mislighold og kan føre til at det reises mistillitsforslag mot vedkommende i henhold til echo's vedtekter (§7 Mistillit).
+
+### Saksbehandling og henleggesle
+echo forbeholder seg retten til å henlegge saker dersom HR vurderer at det ikke er nødvendig å ilegge sanksjoner. Dette betyr at HR, etter en grundig vurdering av alle tilgjengelige opplysninger, kan beslutte å avslutte en sak uten videre tiltak hvis de finner at bruddet ikke er alvorlig, eller at det ikke foreligger tilstrekkelig grunnlag for sanksjoner.
 
 ## Sanksjoner
 
