@@ -1,11 +1,13 @@
 # Etiske retningslinjer
 
-## Table of Contents
-- [Definisjoner](#definisjoner)
+## Innholdsfortegnelse
 - [Formål](#formål)
-- [Hvem gjelder retningslinjer for?](#hvem-gjelder-retningslinjer-for)
+- [Hvem gjelder retningslinjene for?](#hvem-gjelder-retningslinjene-for)
 - [Krav til våre medlemmer](#krav-til-våre-medlemmer)
+- [Definisjoner](#definisjoner)
 - [Kultur](#kultur)
+  - [Inkludering og motarbeiding av utestenging](#inkludering-og-motarbeiding-av-utestenging)
+  - [Håndtering av konflikter](#håndtering-av-konflikter)
   - [Mobbing og trakassering](#mobbing-og-trakassering)
 - [Generelt](#generelt)
   - [Med andre studentorganisasjoner](#med-andre-studentorganisasjoner)
@@ -22,203 +24,226 @@
   - [Hvordan varsle](#hvordan-varsle)
   - [Varslingskanaler](#varslingskanaler)
 - [Saksbehandling](#saksbehandling)
-  - [Prinsipper for saksbehandlinger](#prinsipper-for-saksbehandlinger)
-  - [Anonyme versus Ikke-anonyme Varslinger](#anonyme-versus-ikke-anonyme-varslinger)
-  - [Konfidensialitet ved Varslinger](#konfidensialitet-ved-varslinger)
-  - [Saksbehandling og henleggesle](#saksbehandling-og-henleggesle)
+  - [Prinsipper for saksbehandling](#prinsipper-for-saksbehandling)
+  - [Anonyme versus ikke-anonyme varslinger](#anonyme-versus-ikke-anonyme-varslinger)
+  - [Konfidensialitet ved varslinger](#konfidensialitet-ved-varslinger)
+  - [Saksbehandling og henleggelse](#saksbehandling-og-henleggelse)
 - [Sanksjoner](#sanksjoner)
-  - [Gul Sanksjon](#gul-sanksjon)
-  - [Oransje Sanksjon](#oransje-sanksjon)
-  - [Rød Sanksjon](#rød-sanksjon)
-- [Varsel- og Sanksjonssystem](#varsel--og-sanksjonssystem)
-  - [Mild Uaktsomhet](#mild-uaktsomhet)
+  - [Gul sanksjon](#gul-sanksjon)
+  - [Oransje sanksjon](#oransje-sanksjon)
+  - [Rød sanksjon](#rød-sanksjon)
+- [Varsel- og sanksjonssystem](#varsel--og-sanksjonssystem)
+  - [Mild uaktsomhet](#mild-uaktsomhet)
   - [Uaktsomhet](#uaktsomhet)
-  - [Grov Uaktsomhet](#grov-uaktsomhet)
+  - [Grov uaktsomhet](#grov-uaktsomhet)
 - [Konsekvenser ved manglende oppmøte](#konsekvenser-ved-manglende-oppmøte)
 
-## Definisjoner
-
-- **Avvik** er forhold som kan medføre skade på mennesker, miljø eller materiell, samt misnøye knyttet til studiemiljøet, respekt, likebehandling, ytringsklima, møteplasser og studentvelferd.
-- **Utestenging** Bevisst ekskludering av en person eller gruppe fra sosiale, faglige eller organisatoriske aktiviteter, som hindrer dem i å delta fullt ut i fellesskapet.
-- **Konflikt** kan være stor uenighet, som for eksempel interessekonflikt eller sakskonflikt, mellom to personer, en person og en gruppe, eller to grupper.
-- **Mobbing** kan være negative hendelser, ytringer og unnlatelser som systematisk og vedvarende rettes mot en og samme person.
-- **Trakassering**: Fysiske eller psykiske handlinger, unnlatelser eller ytringer som har til hensikt eller faktisk virker krenkende, skremmende, fiendtlige, nedverdigende eller ydmykende. Trakassering kan være både fysisk og psykisk, og inkluderer for eksempel:
-
-    - **Verbal trakassering**: Nedsettende kommentarer, fornærmelser, trusler eller spredning av rykter.
-    - **Fysisk trakassering**: Uønsket berøring, dytting, blokkering av bevegelsesfrihet eller annen fysisk innblanding.
-    - **Digital trakassering**: Krenkende eller truende meldinger, bilder eller innlegg på sosiale medier.
-    - **Sosial trakassering**: Bevisst ekskludering, isolering eller manipulasjon av sosiale relasjoner.
-
-- **Seksuell trakassering** er enhver form for uønsket seksuell oppmerksomhet.
-- **Rasisme** Holdninger, ideer eller handlinger som baserer seg på forestillingen om at mennesker kan deles inn i raser, og som fører til forskjellsbehandling eller diskriminering basert på etnisitet eller hudfarge.
-- **Diskriminering** er å behandle noen Urettferdig eller forskjellsbehandlende handlinger eller praksis mot enkeltpersoner eller grupper basert på kjønn, etnisitet, religion, nasjonalitet, alder, funksjonsevne, seksuell orientering, kjønnsidentitet, kjønnsuttrykk eller andre beskyttede egenskaper.
-- **Korrupsjon** omfatter det å bestikke eller ta imot bestikkelser i form av penger, gaver eller tjenester.
-- **Tillitspersoner** er personer som innehar verv som er tildelt ekstra tillit, både formelt og uformelt.
-- **Kritikkverdige forhold** vil benyttes som et samlebegrep på mobbing, (seksuell) trakassering, økonomisk kriminalitet og annen uakseptabel oppførsel.
-- **Uaktsomhet** er en form for skyld som innebærer at en har opptrådt i strid med det en alminnelig fornuftig person ville gjort i en tilsvarende situasjon.
-- **Grov uaktsomhet** krever gjerne et markert avvik mellom den utviste atferd og en atferd som objektivt kan betegnes som forsvarlig.
-- **En forsettlig handling** er en handling som er gjort med vilje og bevissthet om konsekvensene.
-- **Rettsferdighet** Prinsippet om rettferdig behandling og like muligheter for alle medlemmer.
-- **Profesjonalitet** Forventet profesjonell atferd, inkludert ansvarlighet, respektfull kommunikasjon og opptreden.
-- **Alkoholige arrangementer** inkluderer alle samlinger hvor alkohol er til stede og en del av arrangementet. Dette kan omfatte fester, vinkvelder, pub-til-pub runder, Bedriftspresentasjoner og lignende sosiale sammenkomster hvor det oftest er servert alkohol.
-- **Edrue arrangementer** er de hvor alkohol ikke er en del av sammenkomsten. Disse kan være kulturelle arrangementer, foredrag, idrettsaktiviteter, spillkvelder, og workshopper. Hensikten her er å samle studenter for sosialt samvær, læring, eller aktiv deltakelse i et miljø uten alkohol.
-
+---
 
 ## Formål
 
-Foreningen har til formål å ivareta og fremme de interessene våre studenter har, med hensyn til studentenes studie- og arbeidsvilkår både faglig og sosialt, i forhold til Institutt for Informatikks ledelse, fakultetet, og Universitetet i Bergen generelt.
+Foreningen har til formål å ivareta og fremme de interessene våre studenter har, med hensyn til studentenes studie- og arbeidsvilkår både faglig og sosialt, i forhold til Institutt for Informatikks ledelse, fakultetet og Universitetet i Bergen generelt.
 
-## Hvem gjelder retningslinjer for?
+## Hvem gjelder retningslinjene for?
 
-Som medlem av echo og student på Institutt for Informatikk forventes det at en følger norsk lov og rett, både på og utenfor campus. Medlemskap i echo innebærer at du har muligheten til å påvirke hverdagen til dine medstudenter, og muligheten til å bidra til et trygt og inkluderende miljø i linjeforeningen.
+Som medlem av echo og student ved Institutt for Informatikk forventes det at en følger norsk lov og rett, både på og utenfor campus. Medlemskap i echo innebærer at du har muligheten til å påvirke hverdagen til dine medstudenter og bidra til et trygt og inkluderende miljø i linjeforeningen.
 
 ## Krav til våre medlemmer
 
 Medlemmer av echo skal:
-- Følge UiB's retningslinjer for studenter.
+
+- Følge UiBs retningslinjer for studenter.
 - Følge echo's retningslinjer som deltaker på arrangementer i regi av echo.
-- Behandle alle medmennesker med respekt.
-- Være inkluderende.
-- Ikke diskriminere basert på etnisitet, kjønn, religion, livssyn, funksjonsnedsettelse, seksuell orientering, alder eller en kombinasjon av disse.
-- Behandle echo's og UiB's eiendom med respekt.
+- Behandle alle medmennesker med respekt og profesjonalitet.
+- Være inkluderende og motarbeide utestenging.
+- Ikke diskriminere basert på etnisitet, kjønn, religion, livssyn, funksjonsnedsettelse, seksuell orientering, alder, kjønnsidentitet, kjønnsuttrykk eller en kombinasjon av disse.
+- Behandle echo's og UiB's eiendom med respekt og unngå uaktsomhet i bruk av utstyr.
+- Opprettholde rettferdighet ved å sikre like muligheter for alle medlemmer.
+
+## Definisjoner
+
+- **Avvik**: Forhold som kan medføre skade på mennesker, miljø eller materiell, samt misnøye knyttet til studiemiljøet, respekt, likebehandling, ytringsklima, møteplasser og studentvelferd.
+- **Utestenging**: Bevisst ekskludering av en person eller gruppe fra sosiale, faglige eller organisatoriske aktiviteter, som hindrer dem i å delta fullt ut i fellesskapet.
+- **Konflikt**: Stor uenighet, som for eksempel interessekonflikt eller sakskonflikt, mellom to personer, en person og en gruppe, eller to grupper.
+- **Mobbing**: Negative hendelser, ytringer og unnlatelser som systematisk og vedvarende rettes mot en og samme person.
+- **Trakassering**: Fysiske eller psykiske handlinger, unnlatelser eller ytringer som har til hensikt eller faktisk virker krenkende, skremmende, fiendtlige, nedverdigende eller ydmykende.
+- **Seksuell trakassering**: Enhver form for uønsket seksuell oppmerksomhet.
+- **Rasisme**: Holdninger, ideer eller handlinger basert på forestillingen om at mennesker kan deles inn i raser, og som fører til forskjellsbehandling eller diskriminering basert på etnisitet eller hudfarge.
+- **Diskriminering**: Urettferdig eller forskjellsbehandlende handlinger eller praksis mot enkeltpersoner eller grupper basert på beskyttede egenskaper.
+- **Korrupsjon**: Å bestikke eller ta imot bestikkelser i form av penger, gaver eller tjenester.
+- **Tillitspersoner**: Personer som innehar verv som er tildelt ekstra tillit, både formelt og uformelt.
+- **Kritikkverdige forhold**: Samlebetegnelse på mobbing, (seksuell) trakassering, økonomisk kriminalitet og annen uakseptabel oppførsel.
+- **Uaktsomhet**: Å opptre i strid med det en alminnelig fornuftig person ville gjort i en tilsvarende situasjon.
+- **Grov uaktsomhet**: Et markert avvik mellom utvist atferd og en atferd som objektivt kan betegnes som forsvarlig.
+- **En forsettlig handling**: En handling som er gjort med vilje og bevissthet om konsekvensene.
+- **Rettferdighet**: Prinsippet om rettferdig behandling og like muligheter for alle medlemmer.
+- **Profesjonalitet**: Forventet profesjonell atferd, inkludert ansvarlighet, respektfull kommunikasjon og opptreden.
+- **Alkoholholdige arrangementer**: Alle samlinger hvor alkohol er til stede og en del av arrangementet.
+- **Edrue arrangementer**: Samlinger hvor alkohol ikke er en del av sammenkomsten.
+
+> **Merk:** I disse retningslinjene skal alle termer og konsepter forstås i henhold til definisjonene beskrevet i avsnittet [Definisjoner](#definisjoner).
+
+> **Merk:** Alle kritikkverdige forhold, som definert i [Definisjoner](#definisjoner), inkludert korrupsjon, mobbing, trakassering og økonomisk kriminalitet, vil behandles med de sanksjoner som er angitt under [Sanksjoner](#sanksjoner), basert på alvorlighetsgrad.
 
 ## Kultur
 
-I echo skal vi ha en kultur hvor alle føler seg inkludert og ivaretatt, og hvor det ikke utøves drikkepress.
+I echo skal vi ha en kultur hvor alle føler seg inkludert og ivaretatt. Dette innebærer at vi aktivt motarbeider utestenging, mobbing og trakassering. Vi oppfordrer til å løse konflikter gjennom dialog og respekt.
+
+### Inkludering og motarbeiding av utestenging
+
+Medlemmer skal arbeide for et inkluderende miljø der ingen opplever utestenging. Alle skal ha like muligheter til å delta i sosiale, faglige og organisatoriske aktiviteter.
+
+### Håndtering av konflikter
+
+Ved konflikter oppfordres det til å søke konstruktive løsninger gjennom åpen kommunikasjon og mediering. Hvis konflikter eskalerer, kan det være aktuelt å involvere echo-styret for støtte.
 
 ### Mobbing og trakassering
 
-Mobbing og trakassering er ikke akseptert i echo. Alle slike tilfeller skal tas på alvor og kan føre til sanksjoner.
+Mobbing og trakassering, inkludert seksuell trakassering, er ikke akseptert i echo. Alle slike tilfeller skal tas på alvor og vil kunne føre til sanksjoner som beskrevet i [Sanksjoner](#sanksjoner).
 
 ## Generelt
 
-Under deltakelse på echo arrangementer forventes gode holdninger og vanlig folkeskikk.
+Under deltakelse på echo arrangementer forventes gode holdninger, profesjonalitet og vanlig folkeskikk. Dette inkluderer å vise respekt for alle deltakere og opptre ansvarlig.
 
 ### Med andre studentorganisasjoner
 
-echo-medlemmer skal også vise respekt når de deltar på arrangementer i regi av eller med andre studentorganisasjoner.
+echo-medlemmer skal også vise respekt og profesjonalitet når de deltar på arrangementer i regi av eller sammen med andre studentorganisasjoner. Dette bidrar til et godt samarbeid og gjensidig respekt mellom organisasjonene.
 
 ### Med bedrifter
 
-Ved bedriftsarrangementer skal deltakere vise respekt og representere echo på en god måte.
+Ved bedriftsarrangementer skal deltakere representere echo på en god måte ved å opptre med profesjonalitet og respekt. Dette styrker foreningens omdømme og bygger positive relasjoner med næringslivet.
 
 ### Konsekvenser for uakseptabel oppførsel
 
-Uakseptabel oppførsel på echo arrangementer kan medføre umiddelbare konsekvenser eller sanksjoner i etterkant.
+Uakseptabel oppførsel, som definert under [Kritikkverdige forhold](#definisjoner), kan medføre umiddelbare konsekvenser eller sanksjoner i etterkant, i henhold til alvorlighetsgraden av hendelsen.
 
 ## Arrangementer
 
-Medlemmer i tjeneste for echo skal utføre sine oppgaver ansvarlig og med echo's beste i tankene.
+Medlemmer i tjeneste for echo skal utføre sine oppgaver ansvarlig og med echo's beste i tankene. Dette inkluderer å unngå uaktsomhet og sikre at arrangementer gjennomføres på en trygg og inkluderende måte.
 
 ### Bruk av echo's eiendeler og utstyr
 
-Utstyr og eiendeler skal behandles forsvarlig og kan kun benyttes til privat bruk etter avklaring med ansvarlig.
+Utstyr og eiendeler skal behandles forsvarlig for å unngå skade eller tap. Uaktsom bruk kan føre til sanksjoner. Privat bruk av foreningens eiendeler er kun tillatt etter avklaring med ansvarlig person.
 
 ### Konfidensialitet
 
-Medlemmer og vervsinnehavere i echo forventes å behandle konfidensiell informasjon med diskresjon. Det er ingen formell taushetspliktavtale, men det oppfordres til å respektere og beskytte sensitiv informasjon.
+Medlemmer og vervsinnehavere i echo forventes å behandle konfidensiell informasjon med diskresjon. Selv om det ikke foreligger en formell taushetspliktavtale, er det en etisk forpliktelse å respektere og beskytte sensitiv informasjon for å opprettholde tillit og integritet i organisasjonen.
 
 ### God representant for echo
 
-Envher tilitsperson og student av echo skal opptre seg som gode forbilder og representanter for foreningen. 
+Enhver tillitsperson og student i echo skal opptre som gode forbilder og representanter for foreningen, både internt og eksternt. Dette innebærer å opprettholde profesjonalitet og rettferdighet i alle sammenhenger.
 
 ## Fellesmidler og økonomi
 
-echo søker bærekraftige økonomiske løsninger og forventer økonomisk ansvarlighet fra sine medlemmer.
+echo søker bærekraftige økonomiske løsninger og forventer økonomisk ansvarlighet fra sine medlemmer. **Korrupsjon**, som definert under [Definisjoner](#definisjoner), tolereres ikke. Alle former for bestikkelser eller uetiske økonomiske handlinger er strengt forbudt.
 
 ## Ulovlige handlinger
 
-Ulovlige handlinger knyttet til echo-medlemmer skal i hovedsak håndteres av politiet, men kan også føre til interne sanksjoner.
+Ulovlige handlinger knyttet til echo-medlemmer skal i hovedsak håndteres av politiet. Slike handlinger kan også føre til interne sanksjoner, inkludert permanent utestengelse fra foreningen.
 
 ## Varslinger
 
 ### Si fra
 
-UiB tilbyr et lavterskeltilbud for å varsle om kritikkverdige forhold gjennom sitt "Si fra"-system.
+UiB tilbyr et lavterskeltilbud for å varsle om kritikkverdige forhold gjennom sitt "Si fra"-system. Medlemmer oppfordres til å benytte seg av dette ved behov.
 
 ### Hvordan varsle
 
-Detaljer om hvordan man varsler finnes på echo sin nettside.
+Detaljer om hvordan man varsler finnes på echo sin nettside. Varslinger kan gjøres både anonymt og ikke-anonymt.
 
 ### Varslingskanaler
 
-echo tilbyr flere kanaler for varsling, inkludert anonyme alternativer.
+echo tilbyr flere kanaler for varsling, inkludert direkte kontakt med styremedlemmer, e-post og anonyme meldinger via nettsiden.
 
 ## Saksbehandling
 
-### Prinsipper for saksbehandlinger
+### Prinsipper for saksbehandling
 
-Saker behandles med taushetsplikt, habilitet, og eventuell involvering av eksterne parter. Grunnleggende prinsipper for rettferdighet og konfidensialitet opprettholdes gjennom hele prosessen.
+Saker behandles med konfidensialitet, habilitet og eventuell involvering av eksterne parter. Grunnleggende prinsipper for rettferdighet og diskresjon opprettholdes gjennom hele prosessen.
 
-### Anonyme versus Ikke-anonyme Varslinger
+### Anonyme versus ikke-anonyme varslinger
 
-Varslinger spiller en avgjørende rolle i å opprettholde en trygg og rettferdig organisasjonskultur. De kan komme i form av anonyme eller ikke-anonyme varslinger, og behandlingen av disse kan variere betydelig.
+- **Ikke-anonyme varslinger**: Tillater direkte oppfølging, effektiv saksbehandling og tilbys støtte til varsleren.
+- **Anonyme varslinger**: Beskytter varslerens identitet, men kan begrense muligheten for oppfølging og grundig undersøkelse.
 
-#### Ikke-anonyme Varslinger
+echo oppfordrer til ikke-anonyme varslinger når det er mulig for å styrke gjennomsiktigheten og integriteten i varslingssystemet.
 
-Ikke-anonyme varslinger gir saksbehandlere mulighet til å følge opp direkte med varsleren for å innhente mer informasjon, klarlegge detaljer, og gi tilbakemelding om utfallet. Varsleren kan også tilbys støtte og beskyttelse gjennom prosessen. Fordi identiteten til varsleren er kjent, kan saken ofte håndteres mer effektivt, og tiltak kan settes i verk for å adressere det rapporterte forholdet på en målbar og rettferdig måte.
+### Konfidensialitet ved varslinger
 
-#### Anonyme Varslinger
+Når et varsel mottas, er konfidensialitet av største betydning. Kun echo-styret og den personen varselet gjelder vil bli informert om varselets innhold. Brudd på konfidensialitet anses som et alvorlig etisk mislighold og kan føre til mistillitsforslag i henhold til echo's vedtekter (§7 Mistillit).
 
-Anonyme varslinger tillater individer å rapportere bekymringer uten frykt for gjengjeldelse eller stigma. Selv om dette kan oppmuntre flere til å komme frem med informasjon, kan det også by på utfordringer for saksbehandling. Uten mulighet for oppfølgingsspørsmål eller ytterligere avklaringer fra varsleren, kan det være vanskelig å undersøke saken fullstendig. Derfor kan anonyme varslinger føre til at saker må behandles med en viss grad av forsiktighet, og de kan veie mindre tungt i en saksbehandlingsprosess sammenlignet med ikke-anonyme varslinger.
+### Saksbehandling og henleggelse
 
-Uavhengig av varslingens art, er det essensielt at alle varslinger tas alvorlig og undersøkes tilstrekkelig. Organisasjonen må sørge for klare prosedyrer for varsling, samt tiltak for å beskytte varslerens identitet, rettigheter og sikkerhet.
-
-**Oppfordring til Ikke-anonyme Varslinger:** Mens anonyme varslinger aksepteres og behandles med den største diskresjon, oppfordrer echo til ikke-anonyme varslinger når det er mulig. Dette styrker gjennomsiktigheten og integriteten i varslingssystemet og tillater en mer direkte og konstruktiv dialog med varsleren.
-
-### Konfidensialitet ved Varslinger
-
-Når et varsel mottas, er konfidensialitet av største betydning. Det er kun echo-styret, som har det direkte ansvaret for saksbehandlingen, og den personen varselet gjelder, som vil bli informert om varselets innhold. Denne prosedyren sikrer at individets rettigheter og organisasjonens integritet opprettholdes, og at eventuelle tiltak håndteres med den nødvendige diskresjon og respekt for den enkeltes privatliv.
-
-Denne fortroligheten er avgjørende for å opprettholde tilliten til varslingssystemet og sikre at medlemmer føler seg trygge på at deres bekymringer blir behandlet seriøst og med den største grad av privatliv. Ved å begrense kunnskapen om varselet til echo-styret og den berørte personen, unngår organisasjonen unødvendig spredning av informasjon som kan føre til ryktespredning, stigma eller forutinntatt behandling av saken.
-
-**Integriteten til Varslingsprosessen:** Det er essensielt at konfidensialitet opprettholdes av alle echo-styrets medlemmer som er involvert i mottak og behandling av varsler. Ethvert brudd på konfidensialitet anses som et alvorlig etisk mislighold og kan føre til at det reises mistillitsforslag mot vedkommende i henhold til echo's vedtekter (§7 Mistillit).
-
-### Saksbehandling og henleggesle
-echo forbeholder seg retten til å henlegge saker dersom HR vurderer at det ikke er nødvendig å ilegge sanksjoner. Dette betyr at HR, etter en grundig vurdering av alle tilgjengelige opplysninger, kan beslutte å avslutte en sak uten videre tiltak hvis de finner at bruddet ikke er alvorlig, eller at det ikke foreligger tilstrekkelig grunnlag for sanksjoner.
+echo forbeholder seg retten til å henlegge saker dersom HR vurderer at det ikke er nødvendig å ilegge sanksjoner. Dette skjer etter en grundig vurdering av alle tilgjengelige opplysninger.
 
 ## Sanksjoner
 
-echo anvender en rekke sanksjoner basert på alvorlighetsgraden av bruddet på foreningens retningslinjer. Disse sanksjonene spenner fra tilsnakk og skriftlige advarsler til permanent utestengelse og rapportering til relevante myndigheter.
+echo anvender en rekke sanksjoner basert på alvorlighetsgraden av bruddet på foreningens retningslinjer. Disse spenner fra tilsnakk og skriftlige advarsler til permanent utestengelse og rapportering til relevante myndigheter.
 
-### Gul Sanksjon
+### Gul sanksjon
 
-For mindre alvorlige brudd på retningslinjene, som førstegangsforekomster av uønsket oppførsel som ikke medfører fysisk skade eller alvorlig psykisk belastning (f.eks., mindre tilfeller av respektløs behandling eller uaktsom bruk av linjeforeningens eiendom). Dette kan innebære et formelt tilsnakk fra ett styremedlem i echo, etterfulgt av en skriftlig advarsel der det klargjøres hvilke retningslinjer som er brutt og hva som forventes fremover. Den skriftlige advarselen skal også informere om at gjentatte brudd vil føre til strengere sanksjoner.
+For mindre alvorlige brudd på retningslinjene, som førstegangsforekomster av uønsket oppførsel uten fysisk skade eller alvorlig psykisk belastning.
 
-### Oransje Sanksjon
+- Formelt tilsnakk fra et styremedlem.
+- Skriftlig advarsel med klargjøring av brudd og forventninger fremover.
+- Informasjon om at gjentatte brudd vil føre til strengere sanksjoner.
 
-For gjentatte eller mer alvorlige brudd på retningslinjene, som involverer direkte skade på personer eller eiendom, mobbing, eller mindre alvorlige tilfeller av trakassering, kan en oransje sanksjon være nødvendig. Dette kan inkludere midlertidig utestengelse fra linjeforeningens alkoholholdige arrangementer og større alkoholfrie arrangementer for en bestemt periode.
+### Oransje sanksjon
 
-Videre vil vedkommendes eventuelle verv i echo bli vurdert av echo's hovedstyre.
+For gjentatte eller mer alvorlige brudd, inkludert:
 
-Som en del av sanksjonene, kan styret i echo også velge å rapportere eventuelle overtredelser til administrasjonen for videre oppfølging.
+- Direkte skade på personer eller eiendom.
+- Mobbing eller mindre alvorlige tilfeller av trakassering.
 
-### Rød Sanksjon
+Sanksjoner kan inkludere:
 
-For svært alvorlige eller gjentatte brudd på retningslinjene, særlig de som involverer alvorlige tilfeller av mobbing, trakassering (inkludert seksuell trakassering), diskriminering, rasisme, eller kriminelle handlinger, bør en rød sanksjon vurderes. Dette kan omfatte permanent utestengelse fra alle linjeforeningens aktiviteter og medlemskap. I tillegg, avhengig av alvorlighetsgraden, kan saken bli rapportert til relevante universitetsorganer, eller i tilfeller som involverer kriminalitet, til politiet.
+- Midlertidig utestengelse fra echo's alkoholholdige og større alkoholfrie arrangementer.
+- Vurdering av vedkommendes verv i echo av hovedstyret.
+- Rapportering til administrasjonen for videre oppfølging.
 
-## Varsel- og Sanksjonssystem
+### Rød sanksjon
 
-echo opererer med et system for å håndtere uaktsomhet og brudd på retningslinjene gjennom varsler og sanksjoner. Dette systemet er designet for å adressere og korrigere oppførsel i et spekter fra mild uaktsomhet til grov uaktsomhet.
+For svært alvorlige eller gjentatte brudd, spesielt de som involverer:
 
-### Mild Uaktsomhet
+- Alvorlige tilfeller av mobbing.
+- Trakassering (inkludert seksuell trakassering).
+- Diskriminering eller rasisme.
+- **Korrupsjon** eller kriminelle handlinger.
 
-- **1 varsel:** Gul Sanksjon; et formelt tilsnakk og en skriftlig advarsel.
-- **2 varsler:** Gjentakelse av Gul Sanksjon; forsterket skriftlig advarsel.
-- **Mer enn 2 varsler:** Går til Oransje Sanksjon.
+Sanksjoner kan inkludere:
+
+- Permanent utestengelse fra alle echo's aktiviteter og medlemskap.
+- Rapportering til relevante universitetsorganer eller politiet.
+
+## Varsel- og sanksjonssystem
+
+echo opererer med et system for å håndtere uaktsomhet og brudd på retningslinjene:
+
+### Mild uaktsomhet
+
+- **1 varsel**: Gul sanksjon.
+- **2 varsler**: Gjentatt gul sanksjon med forsterket advarsel.
+- **Mer enn 2 varsler**: Oransje sanksjon.
 
 ### Uaktsomhet
 
-- **1 varsel:** Starter med sterkeste grad av Gul Sanksjon; med et formelt tilsnakk og en forsterket skriftlig advarsel.
-- **Etterfølgende Uaktsomhet:** Går direkte til Oransje Sanksjon etter kombinasjon av Gul og Oransje varsler.
-- **Mer enn 2 tilfeller:** Beholder Oransje Sanksjon.
+- **1 varsel**: Sterk gul sanksjon med forsterket advarsel.
+- **Etterfølgende uaktsomhet**: Direkte oransje sanksjon.
+- **Mer enn 2 tilfeller**: Opprettholdt oransje sanksjon.
 
-### Grov Uaktsomhet
+### Grov uaktsomhet
 
-- **1 varsel:** Resulterer direkte i Oransje Sanksjon.
-- **Mer enn 1 tilfelle:** Går til Rød Sanksjon; permanent utestengelse og mulig rapportering til eksterne myndigheter.
-
+- **1 varsel**: Direkte oransje sanksjon.
+- **Mer enn 1 tilfelle**: Rød sanksjon med mulig rapportering til eksterne myndigheter.
 
 ## Konsekvenser ved manglende oppmøte
 
-Hvis vedkommende ikke møter opp til avtalt møtetid, så vil det komme et purringsbrev på nytt møte. Hvis dette vedvarer, så vil saken gå videre uten vedkommende. Dette vil si at vedkommende ikke vil få muligheten til å forklare seg, og saken vil bli avgjort uten vedkommende tilstede. Dette kan føre til at vedkommende får en strengere straff enn hva som ville vært tilfelle hvis vedkommende hadde møtt opp.
+Hvis vedkommende ikke møter opp til avtalt møtetid:
+
+- Det sendes et purringsbrev for nytt møte.
+- Ved fortsatt fravær, går saken videre uten vedkommende.
+- Vedkommende får ikke mulighet til å forklare seg.
+- Saken avgjøres uten vedkommende tilstede, noe som kan føre til strengere straff.
+
+---
+
